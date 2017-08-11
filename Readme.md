@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Людмила Разумовская](https://up.htmlacademy.ru/htmlcss/18/user/495451).
-* Наставник: [Андрей Чепулис] (https://htmlacademy.ru/profile/id240237).
+* Наставник: [Андрей Чепулис ! ] (https://htmlacademy.ru/profile/id240237).
 
 ---
 
